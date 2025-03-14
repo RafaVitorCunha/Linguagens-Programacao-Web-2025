@@ -1,4 +1,9 @@
 <?php
+
+    /*
+        código apenas para dar uma base, finalizar depois
+    */
+
     $cores = array(
         1 => '<div style="background-color: yellow; width: 100px; height: 100px;"></div>',
         2 => '<div style="background-color: blue; width: 100px; height: 100px;"></div>',
